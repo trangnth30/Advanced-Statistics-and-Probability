@@ -8,6 +8,9 @@
 - **Trần Thái Hoà**
 - **Võ Hoàng An**
 - **Nguyễn Thị Huyền Trang**
+
+### **Môn học**
+- DS101.N11 - Thống kê và xác suất chuyên sâu
 ## Giới thiệu
 
 Dự án này nghiên cứu và áp dụng **ba phương pháp thống kê và học máy quan trọng** vào các bài toán thực tế:
